@@ -40,12 +40,21 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Continuing Education
+
+* Online Courses
+  * Deep Learning Specialization, Coursera, 2018
+  * Sequence Models, Coursera, 2018
+  * Convolutional Neural Networks, Coursera, 2018
+  * Structuring Machine Learning Projects, Coursera 2018
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization, Coursera, 2018
+  * Neural Networks and Deep Learning, Coursera, 2018
+  * SQL for Data Science, Coursera, 2018
+  * Executive Data Science Specialization, Coursera, 2018
+  * Data Science in Real Life, Coursera, 2018
+  * Executive Data Science Capstone, Coursera, 2018
+  * Managing Data Analysis, Coursera, 2018
+  * A Crash Course in Data Science, Coursera, 2017
+  * Building a Data Science Team, Coursera, 2017
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Honors and Awards
