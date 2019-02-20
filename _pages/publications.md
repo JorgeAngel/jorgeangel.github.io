@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 ---
 
-** You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+** You can also find my articles on <u><a href="{{https://scholar.google.de/citations?user=en7_34wAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 
 ## Refereed Journal Articles and Proceedings
 
