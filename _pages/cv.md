@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Mechanical Engineering, Karlsruhe Institute of Technology, 2016
+  * Thesis Title: New Data-Driven Probabilistic Forecasting Methods with Application in Energy Systems
+* M.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2016
+  * Thesis Title: Evaluation of Modeling Approaches for Short-Term Forecasting of Photovoltaic Systems
+* B.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2014
+  * Thesis Title: Development of a Multimodal Image Processing Pipeline for the Cell Transfection Efficiency Analysis
+
 
 Work experience
 ======
