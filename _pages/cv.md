@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D., Mechanical Engineering, Karlsruhe Institute of Technology, 2019
   * Thesis Title: New Data-Driven Probabilistic Forecasting Methods with Application in Energy Systems
@@ -17,34 +17,19 @@ Education
   * Thesis Title: Evaluation of Modeling Approaches for Short-Term Forecasting of Photovoltaic Systems
 * B.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2014
   * Thesis Title: Development of a Multimodal Image Processing Pipeline for the Cell Transfection Efficiency Analysis
-
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Publications
+## Work Experience
+======
+* Researcher, Helmholtz Association Energy System 2050 Project, 2016-2019
+* Student Research Assistant, Institute of Engineering Mechanics, Karlsruhe Institute of Technology, 2015
+* Student Research Assistant, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, 2014
+* Intern, Acandis GmbH, 2013
+
+## Publications
 ====== 
 * Please find my publication <a href="/publications/">here</a> or in <u><a href="https://scholar.google.de/citations?user=en7_34wAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Continuing Education
+## Continuing Education
 ======
 * Online Courses
   * Deep Learning Specialization, Coursera, 2018
@@ -62,3 +47,9 @@ Continuing Education
   * Building a Data Science Team, Coursera, 2017
   
 ## Honors and Awards
+
+* Best Poster Award, Energy System 2050 Workshop for Doctoral Researchers, 2016
+* Young Author Award, 26th Workshop Computational Intelligence, 2016
+* Schroff Foundation Scholarship, 2012-2016
+* DMV (German Mathematicians Association) – Mathematics Abitur Prize, 2010
+* High School Scholarship awarded by the National Autonomous University of Mexico (UNAM), 2010
