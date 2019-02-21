@@ -47,7 +47,7 @@ redirect_from:
   * Building a Data Science Team, Coursera, 2017
   
 ## Honors and Awards
-
+======
 * Best Poster Award, Energy System 2050 Workshop for Doctoral Researchers, 2016
 * Young Author Award, 26th Workshop Computational Intelligence, 2016
 * Schroff Foundation Scholarship, 2012-2016
