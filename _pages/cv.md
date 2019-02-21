@@ -31,6 +31,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+Publications
+====== 
+* Please find my publication <a href="/publications/">here</a> or in <u><a href="https://scholar.google.de/citations?user=en7_34wAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
 Skills
 ======
 * Skill 1
@@ -40,8 +44,8 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-## Continuing Education
-
+Continuing Education
+======
 * Online Courses
   * Deep Learning Specialization, Coursera, 2018
   * Sequence Models, Coursera, 2018
