@@ -27,7 +27,7 @@ redirect_from:
 
 ## Publications
 ====== 
-* Please find my publication <a href="/publications/">here</a> or in <u><a href="https://scholar.google.de/citations?user=en7_34wAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+* Please find my publication <a href="/publications/">here</a> or in <a href="https://scholar.google.de/citations?user=en7_34wAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ## Continuing Education
 ======
