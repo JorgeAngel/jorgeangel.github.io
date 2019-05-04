@@ -9,15 +9,15 @@ author_profile: true
 
 ## Refereed Journal Articles and Proceedings
 
-* González Ordiano, J. Á., Bartschat, A., Ludwig, N., Braun, E., Waczowicz, S., Renkamp, N., ... & Hagenmeyer, V. (2018). Concept and Benchmark Results for Big Data Energy Forecasting based on Apache Spark. Journal of Big Data, 5(1), 11.
+* Appino, R. R., Muñoz-Ortiz, M., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2019). Reliable Dispatch of Renewable Generation via Charging of Time-Varying PEV Populations. IEEE Transactions on Power Systems, 34(2), 1558-1568.
 
-* Appino, R. R., Munoz-Ortiz, M., González Ordiano, J. A., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2018). Reliable Dispatch of Renewable Generation via Charging of Time-varying PEV Populations. IEEE Transactions on Power Systems.
+* González Ordiano, J. Á., Bartschat, A., Ludwig, N., Braun, E., Waczowicz, S., Renkamp, N., ... & Hagenmeyer, V. (2018). Concept and Benchmark Results for Big Data Energy Forecasting based on Apache Spark. Journal of Big Data, 5(1), 11.
 
 * Waczowicz, S., Ludwig, N., González Ordiano, J. Á., Mikut, R., & Hagenmeyer, V. (2018, June). Demand Response Clustering: Automatically finding Optimal Cluster Hyper-Parameter Values. In Proceedings of the Ninth International Conference on Future Energy Systems (pp. 429-430). ACM.
 
 * Sharma, V., Cali, U., Hagenmeyer, V., Mikut, R., & González Ordiano, J. Á. (2018, June). Numerical Weather Prediction Data Free Solar Power Forecasting with Neural Networks. In Proceedings of the Ninth International Conference on Future Energy Systems (pp. 604-609). ACM.
 
-* Appino, R. R., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2018, June). Storage Scheduling with Stochastic Uncertainties: Feasibility and Cost of Imbalances. In Proceedings of the 20th Power Systems Computation Conference, (PSCC). IEEE
+* Appino, R. R., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2018, June). Storage scheduling with stochastic uncertainties: Feasibility and cost of imbalances. In 2018 Power Systems Computation Conference (PSCC) (pp. 1-7). IEEE.
 
 * González Ordiano, J. Á., Waczowicz, S., Hagenmeyer, V., & Mikut, R. (2018). Energy Forecasting Tools and Services. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(2), e1235.
 
@@ -32,6 +32,8 @@ author_profile: true
 * González Ordiano, J. Á., Doneit, W., Waczowicz, S., Gröll, L., Mikut, R., & Hagenmeyer, V. (2017). Nearest-neighbor based non-parametric probabilistic forecasting with applications in photovoltaic systems. In Proceedings 26. Workshop Computational Intelligence (pp. 9-30). KIT Scientific Publishing.
 
 ## Other
+
+* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (2019). Probabilistic Energy Forecasting using Quantile Regressions based on a new Nearest Neighbors Quantile Filter. arXiv preprint arXiv:1903.07390.
 
 * González Ordiano, J. Á., Appino, R. R., Faulwasser, T., Hagenmeyer, V., & Mikut, R. (2018, June). On the Creation of Quantile Regression based Scenario and Parametric Probabilistic Forecasts in the Context of Energy Forecasting. In Proceedings of the 38th International Symposium on Forecasting
 
