@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 ======
 * Ph.D. Candidate, Mechanical Engineering, Karlsruhe Institute of Technology
-  * Thesis Title: New Data-Driven Probabilistic Forecasting Methods with Application in Energy Systems
+  * Thesis Title: <a href="https://d-nb.info/1182430732/34">New Data-Driven Probabilistic Forecasting Methods with Application in Energy Systems</a>
 * M.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2016
   * Thesis Title: Evaluation of Modeling Approaches for Short-Term Forecasting of Photovoltaic Systems
 * B.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2014
