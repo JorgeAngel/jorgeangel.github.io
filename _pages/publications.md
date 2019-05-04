@@ -17,19 +17,19 @@ author_profile: true
 
 * Sharma, V., Cali, U., Hagenmeyer, V., Mikut, R., & González Ordiano, J. Á. (2018, June). Numerical Weather Prediction Data Free Solar Power Forecasting with Neural Networks. In Proceedings of the Ninth International Conference on Future Energy Systems (pp. 604-609). ACM.
 
-* Appino, R. R., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2018, June). Storage scheduling with stochastic uncertainties: Feasibility and cost of imbalances. In 2018 Power Systems Computation Conference (PSCC) (pp. 1-7). IEEE.
+* Appino, R. R., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2018, June). Storage Scheduling with Stochastic Uncertainties: Feasibility and Cost of Imbalances. In 2018 Power Systems Computation Conference (PSCC) (pp. 1-7). IEEE.
 
 * González Ordiano, J. Á., Waczowicz, S., Hagenmeyer, V., & Mikut, R. (2018). Energy Forecasting Tools and Services. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(2), e1235.
 
 * Appino, R. R., González Ordiano, J. Á., Mikut, R., Faulwasser, T., & Hagenmeyer, V. (2018). On the Use of Probabilistic Forecasts in Scheduling of Renewable Energy Sources Coupled to Storages. Applied Energy, 210, 1207-1218.
 
-* Jakob, W., González Ordiano, J. Á., Ludwig, N., Mikut, R., & Hagenmeyer, V. (2017, July). Towards coding strategies for forecasting-based scheduling in smart grids and the energy lab 2.0. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1271-1278). ACM.
+* Jakob, W., González Ordiano, J. Á., Ludwig, N., Mikut, R., & Hagenmeyer, V. (2017, July). Towards Coding Strategies for Forecasting-based Scheduling in Smart Grids and the Energy Lab 2.0. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1271-1278). ACM.
 
 * Popova, A. A., Depew, C., Permana, K. M., Trubitsyn, A., Peravali, R., González Ordiano, J. Á., ... & Levkin, P. A. (2017). Evaluation of the Droplet-Microarray Platform for High-Throughput Screening of Suspension Cells. SLAS TECHNOLOGY: Translating Life Sciences Innovation, 22(2), 163-175. 
 
-* González Ordiano, J. Á., Waczowicz, S., Reischl, M., Mikut, R., & Hagenmeyer, V. (2017). Photovoltaic power forecasting using simple data-driven models without weather data. Computer Science-Research and Development, 32(1-2), 237-246.
+* González Ordiano, J. Á., Waczowicz, S., Reischl, M., Mikut, R., & Hagenmeyer, V. (2017). Photovoltaic Power Forecasting using Simple Data-Driven Models without Weather Data. Computer Science-Research and Development, 32(1-2), 237-246.
 
-* González Ordiano, J. Á., Doneit, W., Waczowicz, S., Gröll, L., Mikut, R., & Hagenmeyer, V. (2017). Nearest-neighbor based non-parametric probabilistic forecasting with applications in photovoltaic systems. In Proceedings 26. Workshop Computational Intelligence (pp. 9-30). KIT Scientific Publishing.
+* González Ordiano, J. Á., Doneit, W., Waczowicz, S., Gröll, L., Mikut, R., & Hagenmeyer, V. (2017). Nearest-Neighbor based Non-Parametric Probabilistic Forecasting with Applications in Photovoltaic Systems. In Proceedings 26. Workshop Computational Intelligence (pp. 9-30). KIT Scientific Publishing.
 
 ## Other
 
