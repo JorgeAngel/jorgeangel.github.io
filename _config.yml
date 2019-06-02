@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jorge Ángel González Ordiano"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Karlsruhe, Germany"
-  employer         :
+  bio              : "I'm as postdoctoral research fellow at the Colorado State University working within the group of Prof. Steven Simske. My current research consists in the development of data-driven solutions for identifying and disrupting operations of illicit supply networks."
+  location         : "Fort Collins, CO, USA"
+  employer         : "Colorado State University"
   googlescholar    : "https://scholar.google.de/citations?user=en7_34wAAAAJ&hl=en"
-  email            :
+  email            : "jorge.gonzalez_ordiano@colostate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
