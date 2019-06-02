@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 I'm as postdoctoral research fellow at the Colorado State University working within the group of Prof. Steven Simske.
 
