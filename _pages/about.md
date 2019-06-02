@@ -14,4 +14,4 @@ My current research consists in the development of data-driven solutions for ide
 
 I received my Bachelor's and Master's degrees in Mechanical Engineering from the Karlsruhe Institute of Technology (KIT). I completed  my Ph.D. also at KIT within the Institute of Automation and Applied Informatics. My Ph.D. research consisted in deveolping new probabilistic forecasting approaches able to quantify in some way the uncertainty of future renewable power generation and load.
 
-Research is for me a chance solve everyday problems, an opportunity to keep learning, and a possibility of of contributing to the ever expanding pool of human knowledge.
+Research is for me a chance to solve everyday problems, an opportunity to keep learning, and a possibility of contributing to the ever expanding pool of human knowledge.
