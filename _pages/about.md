@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal page!!
+I'm as postdoctoral research fellow at the Colorado State University working within the group of Prof. Steven Simske.
+
+My current research consists in the development of data-driven solutions for identifying and disrupting operations of illicit supply networks. 
+
+I received my Bachelor's and Master's degrees in Mechanical Engineering from the Karlsruhe Institute of Technology (KIT). I completed  my PhD also at KIT within the Institute of Automation ans Applied Informatics. My PhD research consisted in deveolping new probabilistic forecasting approaches able to quantify in some way the uncertainty of future renewable power generation and load.
+
+Research is for me a chance solve everyday problems, an opportunity to keep learning, and a possibility of of contributing to the ever expanding pool of human knowledge.
