@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm as postdoctoral research fellow at the Colorado State University working within the group of Prof. Steven Simske.
+I'm as postdoctoral research fellow at the Colorado State University working within the lab of Prof. Steven Simske.
 
 My current research consists in the development of data-driven solutions for identifying and disrupting operations of illicit supply networks. 
 
