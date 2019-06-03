@@ -8,15 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-## Education
-======
-* Ph.D., Mechanical Engineering, Karlsruhe Institute of Technology
-  * Thesis Title: <a href="https://d-nb.info/1182430732/34">New Data-Driven Probabilistic Forecasting Methods with Application in Energy Systems</a>
-* M.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2016
-  * Thesis Title: Evaluation of Modeling Approaches for Short-Term Forecasting of Photovoltaic Systems
-* B.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2014
-  * Thesis Title: Development of a Multimodal Image Processing Pipeline for the Cell Transfection Efficiency Analysis
   
 ## Work Experience
 ======
@@ -25,6 +16,16 @@ redirect_from:
 * Student Research Assistant, Institute of Engineering Mechanics, Karlsruhe Institute of Technology, 2015
 * Student Research Assistant, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, 2014
 * Intern, Acandis GmbH, 2013
+
+
+## Education
+======
+* Ph.D., Mechanical Engineering, Karlsruhe Institute of Technology, 2019
+  * Thesis Title: <a href="https://d-nb.info/1182430732/34">New Data-Driven Probabilistic Forecasting Methods with Application in Energy Systems</a>
+* M.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2016
+  * Thesis Title: Evaluation of Modeling Approaches for Short-Term Forecasting of Photovoltaic Systems
+* B.Sc., Mechanical Engineering, Karlsruhe Institute of Technology, 2014
+  * Thesis Title: Development of a Multimodal Image Processing Pipeline for the Cell Transfection Efficiency Analysis
 
 ## Publications
 ====== 
