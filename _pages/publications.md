@@ -9,6 +9,8 @@ author_profile: true
 
 ## Refereed Journal Articles and Proceedings
 
+* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (accepted). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting.
+
 * Appino, R. R., Muñoz-Ortiz, M., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2019). Reliable Dispatch of Renewable Generation via Charging of Time-Varying PEV Populations. IEEE Transactions on Power Systems, 34(2), 1558-1568.
 
 * González Ordiano, J. Á., Bartschat, A., Ludwig, N., Braun, E., Waczowicz, S., Renkamp, N., ... & Hagenmeyer, V. (2018). Concept and Benchmark Results for Big Data Energy Forecasting based on Apache Spark. Journal of Big Data, 5(1), 11.
@@ -32,8 +34,6 @@ author_profile: true
 * González Ordiano, J. Á., Doneit, W., Waczowicz, S., Gröll, L., Mikut, R., & Hagenmeyer, V. (2017). Nearest-Neighbor based Non-Parametric Probabilistic Forecasting with Applications in Photovoltaic Systems. In Proceedings 26. Workshop Computational Intelligence (pp. 9-30). KIT Scientific Publishing.
 
 ## Other
-
-* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (2019). Probabilistic Energy Forecasting using Quantile Regressions based on a new Nearest Neighbors Quantile Filter. arXiv preprint arXiv:1903.07390.
 
 * González Ordiano, J. Á., Appino, R. R., Faulwasser, T., Hagenmeyer, V., & Mikut, R. (2018, June). On the Creation of Quantile Regression based Scenario and Parametric Probabilistic Forecasts in the Context of Energy Forecasting. In Proceedings of the 38th International Symposium on Forecasting
 
