@@ -11,6 +11,8 @@ author_profile: true
 
 * González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (accepted). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting.
 
+* Appino, R. R., González Ordiano, J. Á., Munzke, N., Mikut, R., Faulwasser, T., & Hagenmeyer, V. (2019, May). Assessment of a Scheduling Strategy for Dispatching Prosumption of an Industrial Campus. In Proceedings of the "Internationaler ETG-Kongress 2019" (pp. 289-294). VDE-Verlag.
+
 * Appino, R. R., Muñoz-Ortiz, M., González Ordiano, J. Á., Mikut, R., Hagenmeyer, V., & Faulwasser, T. (2019). Reliable Dispatch of Renewable Generation via Charging of Time-Varying PEV Populations. IEEE Transactions on Power Systems, 34(2), 1558-1568.
 
 * González Ordiano, J. Á., Bartschat, A., Ludwig, N., Braun, E., Waczowicz, S., Renkamp, N., ... & Hagenmeyer, V. (2018). Concept and Benchmark Results for Big Data Energy Forecasting based on Apache Spark. Journal of Big Data, 5(1), 11.
