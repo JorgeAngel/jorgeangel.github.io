@@ -9,7 +9,7 @@ author_profile: true
 
 ## Refereed Journal Articles and Proceedings
 
-* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (accepted). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting.
+* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (2019). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting.
 
 * Appino, R. R., González Ordiano, J. Á., Munzke, N., Mikut, R., Faulwasser, T., & Hagenmeyer, V. (2019, May). Assessment of a Scheduling Strategy for Dispatching Prosumption of an Industrial Campus. In Proceedings of the "Internationaler ETG-Kongress 2019" (pp. 289-294). VDE-Verlag.
 
