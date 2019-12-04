@@ -11,3 +11,5 @@ redirect_from:
 
 ## Teaching
 
+===
+How to Latex: Quick Tutorial for Beginners
