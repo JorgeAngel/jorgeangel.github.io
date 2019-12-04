@@ -10,4 +10,4 @@ author_profile: true
 ## Teaching
 
 ======
-* How to Latex: Quick Tutorial for Beginners, 2019 (slides)
+* How to Latex: Quick Tutorial for Beginners, 2019 ([slides](../teaching/How_to_LaTeX_noAffiliation.pdf))
