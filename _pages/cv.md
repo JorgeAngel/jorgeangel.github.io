@@ -17,6 +17,12 @@ redirect_from:
 * Student Research Assistant, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, 2014
 * Intern, Acandis GmbH, 2013
 
+## Teaching Experience
+======
+* Transatlantic Energy Research Experiment (TE-Rex) Mentor, International MINTernship-Program between the Karlsruhe Institute of Technology and the University of North Carolina at Charlotte, 2017
+* Energy Informatics Seminar Student Supervisor, Karlsruhe Institute of Technology, 2016
+* Measurements and Control Theory Tutor, Karlsruhe Institute of Technology, 2013-2014
+* Mathematics Tutor, Karlsruhe Institute of Technology, 2011-2013
 
 ## Education
 ======
