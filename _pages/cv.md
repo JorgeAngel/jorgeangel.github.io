@@ -12,7 +12,7 @@ redirect_from:
 ## Work Experience
 ======
 * Postdoctoral Research Fellow, Colorado State University, since 2019
-* Researcher, Helmholtz Association Energy System 2050 Project, 2016-2019
+* Researcher, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, 2016-2019
 * Student Research Assistant, Institute of Engineering Mechanics, Karlsruhe Institute of Technology, 2015
 * Student Research Assistant, Institute for Automation and Applied Informatics, Karlsruhe Institute of Technology, 2014
 * Intern, Acandis GmbH, 2013
