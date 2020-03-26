@@ -9,7 +9,7 @@ author_profile: true
 
 ## Refereed Journal Articles and Proceedings
 
-* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (2019). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting.
+* González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (2020). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting, 36(2), 310-323.
 
 * Appino, R. R., González Ordiano, J. Á., Munzke, N., Mikut, R., Faulwasser, T., & Hagenmeyer, V. (2019, May). Assessment of a Scheduling Strategy for Dispatching Prosumption of an Industrial Campus. In Proceedings of the "Internationaler ETG-Kongress 2019" (pp. 289-294). VDE-Verlag.
 
@@ -36,6 +36,8 @@ author_profile: true
 * González Ordiano, J. Á., Doneit, W., Waczowicz, S., Gröll, L., Mikut, R., & Hagenmeyer, V. (2017). Nearest-Neighbor based Non-Parametric Probabilistic Forecasting with Applications in Photovoltaic Systems. In Proceedings 26. Workshop Computational Intelligence (pp. 9-30). KIT Scientific Publishing.
 
 ## Other
+
+* González Ordiano, J. Á. & Mikut, R. (2020). The Forecasting Toolbox of the MATLAB-Toolbox SciXMiner Short manual. <a href="https://www.researchgate.net/profile/Ralf_Mikut/publication/339448304_The_Forecasting_Toolbox_of_the_MATLAB-Toolbox_SciXMiner_-_Short_manual/links/5e53c99892851c1dcb88a090/The-Forecasting-Toolbox-of-the-MATLAB-Toolbox-SciXMiner-Short-manual.pdf">https://www.researchgate.net/profile/Ralf_Mikut/publication/339448304_The_Forecasting_Toolbox_of_the_MATLAB-Toolbox_SciXMiner_-_Short_manual/links/5e53c99892851c1dcb88a090/The-Forecasting-Toolbox-of-the-MATLAB-Toolbox-SciXMiner-Short-manual.pdf</a>
 
 * González Ordiano, J. Á., Appino, R. R., Faulwasser, T., Hagenmeyer, V., & Mikut, R. (2018, June). On the Creation of Quantile Regression based Scenario and Parametric Probabilistic Forecasts in the Context of Energy Forecasting. In Proceedings of the 38th International Symposium on Forecasting
 
