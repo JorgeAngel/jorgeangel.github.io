@@ -9,6 +9,12 @@ author_profile: true
 
 ## Refereed Journal Articles and Proceedings
 
+* Appino, R. R., Wang, H., González Ordiano, J.Á., Faulwasser, T., Mikut, R., … & Pierluigi M. (accepted). Energy-Based Stochastic MPC for Integrated Electricity-Hydrogen VPP in Real-Time Markets. In 2020 Power Systems Computation Conference.
+
+* González Ordiano, J.Á., Finn, L., Winterlich, A., Moloney, G., & Simske, S. (accepted). A Method for Estimating Driving Factors of Illicit Trade Using Node Embeddings and Clustering. In Proceedings of the 12th Mexican Conference on Pattern Recognition.
+
+* González Ordiano, J.Á., Finn, L., Winterlich, A., Moloney, G., & Simske, S. (2020, June). On the Analysis of Illicit Supply Networks using Variable State Resolution-Markov Chains. In Proceedings of the 18th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems.
+
 * González Ordiano, J. Á., Gröll, L., Mikut, R., & Hagenmeyer, V. (2020). Probabilistic Energy Forecasting using the Nearest Neighbors Quantile Filter and Quantile Regression. International Journal of Forecasting, 36(2), 310-323.
 
 * Appino, R. R., González Ordiano, J. Á., Munzke, N., Mikut, R., Faulwasser, T., & Hagenmeyer, V. (2019, May). Assessment of a Scheduling Strategy for Dispatching Prosumption of an Industrial Campus. In Proceedings of the "Internationaler ETG-Kongress 2019" (pp. 289-294). VDE-Verlag.
@@ -37,7 +43,7 @@ author_profile: true
 
 ## Other
 
-* González Ordiano, J. Á. & Mikut, R. (2020). The Forecasting Toolbox of the MATLAB-Toolbox SciXMiner - Short manual. <a href="https://www.researchgate.net/profile/Ralf_Mikut/publication/339448304_The_Forecasting_Toolbox_of_the_MATLAB-Toolbox_SciXMiner_-_Short_manual/links/5e53c99892851c1dcb88a090/The-Forecasting-Toolbox-of-the-MATLAB-Toolbox-SciXMiner-Short-manual.pdf">https://www.researchgate.net/profile/Ralf_Mikut/publication/339448304_The_Forecasting_Toolbox_of_the_MATLAB-Toolbox_SciXMiner_-_Short_manual/links/5e53c99892851c1dcb88a090/The-Forecasting-Toolbox-of-the-MATLAB-Toolbox-SciXMiner-Short-manual.pdf</a>
+* González Ordiano, J. Á. & Mikut, R. (2020). The Forecasting Toolbox of the MATLAB-Toolbox SciXMiner - Short manual. <a href="https://www.researchgate.net/publication/339448304_The_Forecasting_Toolbox_of_the_MATLAB-Toolbox_SciXMiner_-_Short_manual">https://www.researchgate.net/publication/339448304_The_Forecasting_Toolbox_of_the_MATLAB-Toolbox_SciXMiner_-_Short_manual</a>
 
 * González Ordiano, J. Á., Appino, R. R., Faulwasser, T., Hagenmeyer, V., & Mikut, R. (2018, June). On the Creation of Quantile Regression based Scenario and Parametric Probabilistic Forecasts in the Context of Energy Forecasting. In Proceedings of the 38th International Symposium on Forecasting
 
