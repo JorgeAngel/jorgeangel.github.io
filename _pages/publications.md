@@ -9,9 +9,9 @@ author_profile: true
 
 ## Refereed Journal Articles and Proceedings
 
-* Appino, R. R., Wang, H., González Ordiano, J.Á., Faulwasser, T., Mikut, R., … & Pierluigi M. (accepted). Energy-Based Stochastic MPC for Integrated Electricity-Hydrogen VPP in Real-Time Markets. In 2020 Power Systems Computation Conference.
+* Appino, R. R., Wang, H., González Ordiano, J.Á., Faulwasser, T., Mikut, R., … & Pierluigi M. (2020, June). Energy-Based Stochastic MPC for Integrated Electricity-Hydrogen VPP in Real-Time Markets. In 2020 Power Systems Computation Conference.
 
-* González Ordiano, J.Á., Finn, L., Winterlich, A., Moloney, G., & Simske, S. (accepted). A Method for Estimating Driving Factors of Illicit Trade Using Node Embeddings and Clustering. In Proceedings of the 12th Mexican Conference on Pattern Recognition.
+* González Ordiano, J.Á., Finn, L., Winterlich, A., Moloney, G., & Simske, S. (2020, June). A Method for Estimating Driving Factors of Illicit Trade Using Node Embeddings and Clustering. In Proceedings of the 12th Mexican Conference on Pattern Recognition.
 
 * González Ordiano, J.Á., Finn, L., Winterlich, A., Moloney, G., & Simske, S. (2020, June). On the Analysis of Illicit Supply Networks using Variable State Resolution-Markov Chains. In Proceedings of the 18th International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems.
 
